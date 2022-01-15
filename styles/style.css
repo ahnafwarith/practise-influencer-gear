@@ -5,7 +5,7 @@ body{
  Styling the header 
 -------------------*/
 header{
-    margin: 80px 120px;
+    margin: 80px 110px;
 }
 .nav-elements{
     display: flex;
